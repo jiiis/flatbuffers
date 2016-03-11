@@ -1,0 +1,26 @@
+{
+  "name": "jiiis-flatbuffers",
+  "version": "1.0.0",
+  "description": "A fork from https://github.com/google/flatbuffers",
+  "main": "js/flatbuffers.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiiis/flatbuffers.git"
+  },
+  "keywords": [
+    "flatbuffers"
+  ],
+  "author": "jiiis <yngwie.chang@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiiis/flatbuffers/issues"
+  },
+  "homepage": "https://github.com/jiiis/flatbuffers#readme"
+}

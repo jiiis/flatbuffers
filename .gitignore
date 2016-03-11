@@ -1,5 +1,6 @@
 *_wire.txt
 *_wire.bin
+*.log
 .DS_Store
 *.o
 *.o.d
